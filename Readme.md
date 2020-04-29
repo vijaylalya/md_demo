@@ -41,7 +41,7 @@ Project team approval:
    # 2	Setting up your development machine
    **2.1	SSH Key generation for GIT access**  
 Enrolling the SSH key on development (user Dev machine where he shall start his development work) machine shall enable ease of accessing   GIT without a need to every time enter user credentials and password. This especially useful when we developer is working with   creating YOCTO image and some of his scripts needs to have an inherent ability to pull the repositories from GITHUB.  
-   **2.2	Steps to generate ssh key**
+   **2.2	Steps to generate ssh key**  
     •	Open a terminal in Linux PC.  
     •	Navigate to home folder or any folder.  
     •	Enter the command “ssh-keygen” in the bash  
@@ -79,7 +79,7 @@ $ ssh-add –l
 7.	platform-poky  
 8.	platform-sdk  
 9.	project-cor9c  
-10.project-utilities  
+10.     project-utilities  
 
 # Command to clone repo is 
 $CloneLocation> git clone --branch *dev [utcbis@vs-ssh.visualstudio.com:v3/utcbis/Embedded-OS-Platform/REPO-Name]()  
