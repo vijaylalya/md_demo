@@ -13,10 +13,13 @@ Integrity document ID --
 Integrity Project Name --  
 Document Authors – Annapurna Bommakanti, Prakash Nitsure, Mahesh Gaikwad, Siva Nallamalli  
 Document change history:   
-# **Document Approvals**
+              **Document Approvals**  
 Passport Review Board approved: <Yes, No> (manual entry (default No) or based upon object state)  
 Project team approval:  
 <Last, F.>, <date>  
 <Last, F.>, <date>  
- [Table of Contents]()
+ [**Table of Contents**]()  
+   [1	Checking for GIT	3]()
+    [1.1	Check your connection to Azure-DevOps	3]()  
+
 
