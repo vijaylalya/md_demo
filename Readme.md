@@ -22,7 +22,7 @@ Document change history:
 |3|             |                                                            |              |
 |4|             |                                                            |              |
 |5|             |                                                            |              |   
-                    			**Document Approvals** 
+                    			Document Approvals
 
 Passport Review Board approved: <Yes, No> (manual entry (default No) or based upon object state)  
 Project team approval:  
