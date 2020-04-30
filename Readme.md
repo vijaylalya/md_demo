@@ -43,7 +43,7 @@ Project team approval:
    You should be able to see following ribbon on left side of your screen  
 ![Annotation 2020-04-30 163726](https://user-images.githubusercontent.com/64484410/80703763-04cd1a00-8b01-11ea-8d4b-db8c79112070.png)    
    Below is something similar you might be able to see  
-	
+![Annotation 2020-04-30 165740](https://user-images.githubusercontent.com/64484410/80705360-eae10680-8b03-11ea-836b-6b3d9c1ac1fd.png)  
    # 2	Setting up your development machine
    **2.1	SSH Key generation for GIT access**  
 Enrolling the SSH key on development (user Dev machine where he shall start his development work) machine shall enable ease of accessing   GIT without a need to every time enter user credentials and password. This especially useful when we developer is working with   creating YOCTO image and some of his scripts needs to have an inherent ability to pull the repositories from GITHUB.  
