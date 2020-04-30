@@ -1,4 +1,4 @@
-![](images/screenshot.png)
+![](images/screensh ot.png)    
 # **Platforms-How-To-GIT**
 # **Carrier-Platforms**
 ## SRS Metadata
