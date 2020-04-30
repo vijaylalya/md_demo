@@ -23,12 +23,8 @@ Project team approval:
 <Last, F.>, <date>  
  [**Table of Contents**]()  
    [1	Checking for GIT]()  
-    [1.1	Check your connection to Azure-DevOps]()   
- • Azure-DevOps: [www.utcbis.visualstudio.com](www.utcbis.visualstudio.com)        
- • Login with your carrier email id and windows login password (SAML credentials)    
-![Annotation 2020-04-30 161720](https://user-images.githubusercontent.com/64484410/80702141-37c1de80-8afe-11ea-9f9a-e96d97b0090d.png)  
-![Aotation 2020-04-30 163154](https://user-images.githubusercontent.com/64484410/80703397-545f1600-8b00-11ea-8fbd-558d2946be86.png)  
-	     [1.2	Checking Repos]()  
+    [1.1	Check your connection to Azure-DevOps]()            
+    [1.2	Checking Repos]()  
  [2	Setting up your development machine]()  
     [2.1	SSH Key generation for GIT access]()      
     [2.2	Steps to generate ssh key]()  
@@ -38,13 +34,16 @@ Project team approval:
  [5	List of repositories	]()    
  [6	What Next]()  
  [7	Useful references]()  	
-  # 1	Checking for GIT
+  # 1	Checking for GIT  
   ## 1.1	Check your connection to Azure-DevOps  
    *Azure-DevOps: [www.utcbis.visualstudio.com](www.utcbis.visualstudio.com)  
    *Login with your carrier email id and windows login password (SAML credentials)  
+ ![Annotation 2020-04-30 161720](https://user-images.githubusercontent.com/64484410/80702141-37c1de80-8afe-11ea-9f9a-e96d97b0090d.png)    ![Aotation 2020-04-30 163154](https://user-images.githubusercontent.com/64484410/80703397-545f1600-8b00-11ea-8fbd-558d2946be86.png)   
    **1.2	Checking Repos**  
    You should be able to see following ribbon on left side of your screen  
-   Below is something similar you might be able to see    
+![Annotation 2020-04-30 163726](https://user-images.githubusercontent.com/64484410/80703763-04cd1a00-8b01-11ea-8d4b-db8c79112070.png)    
+   Below is something similar you might be able to see  
+	
    # 2	Setting up your development machine
    **2.1	SSH Key generation for GIT access**  
 Enrolling the SSH key on development (user Dev machine where he shall start his development work) machine shall enable ease of accessing   GIT without a need to every time enter user credentials and password. This especially useful when we developer is working with   creating YOCTO image and some of his scripts needs to have an inherent ability to pull the repositories from GITHUB.  
