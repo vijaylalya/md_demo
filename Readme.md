@@ -61,6 +61,7 @@ Enrolling the SSH key on development (user Dev machine where he shall start his 
    **2.3	Integrating generated key to GIT**  
     •	Open the [https://utcbis.visualstudio.com/](https://utcbis.visualstudio.com/).   
     •	Go to one of the Repos in DEV branch/ branch to be cloned.  
+![Annotation 2020-04-30 171347](https://user-images.githubusercontent.com/64484410/80706630-3bf1fa00-8b06-11ea-84b5-355153cec5c1.png)  
     •	After you click on “clone” you should see something like below  
     •	Click on adding New Key  
     •	Click on adding New Key, name it with your name and the copy the content of id-rsa.pub here (refer section 2.2 line item g)  
