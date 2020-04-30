@@ -14,8 +14,9 @@ Integrity document title --
 Integrity document ID --  
 Integrity Project Name --  
 Document Authors – Annapurna Bommakanti, Prakash Nitsure, Mahesh Gaikwad, Siva Nallamalli  
-Document change history:   
-              **Document Approvals**  
+Document change history:  
+![Untitled picture](https://user-images.githubusercontent.com/64484410/80701585-3e038b00-8afd-11ea-93f7-6a0ef97a63b0.png)  
+              **Document Approvals**      
 Passport Review Board approved: <Yes, No> (manual entry (default No) or based upon object state)  
 Project team approval:  
 <Last, F.>, <date>  
