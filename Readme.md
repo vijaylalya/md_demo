@@ -1,5 +1,6 @@
-![](images/screensh ot.png)    
-# **Platforms-How-To-GIT**
+Engineering Design Center HRDC  
+![download](https://user-images.githubusercontent.com/64484410/80700386-44910300-8afb-11ea-814f-7086cd3d3822.png)
+ # **Platforms-How-To-GIT**
 # **Carrier-Platforms**
 ## SRS Metadata
 ## This document extracted from database on: < date>
