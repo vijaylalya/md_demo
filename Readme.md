@@ -15,7 +15,13 @@ Integrity document ID --
 Integrity Project Name --  
 Document Authors – Annapurna Bommakanti, Prakash Nitsure, Mahesh Gaikwad, Siva Nallamalli  
 Document change history:  
-![Untitled picture](https://user-images.githubusercontent.com/64484410/80701585-3e038b00-8afd-11ea-93f7-6a0ef97a63b0.png)  
+|VERSION|  DATE      |CHANGE/REMARKS |CHANGED BY    | 
+| ---- | ------------- | ------ | -------- |
+|1|10-APRIL-2020|INITIAL DRAFT  |MAHESH GAIKWAD| 
+|2|21-APRIL-2020|Added pass phrase and repo list plus what could be done next|MAHESH GAIKWAD|
+|3|             |                                                            |              |
+|4|             |                                                            |              |
+|5|             |                                                            |              |
               **Document Approvals**      
 Passport Review Board approved: <Yes, No> (manual entry (default No) or based upon object state)  
 Project team approval:  
