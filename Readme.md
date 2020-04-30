@@ -71,6 +71,8 @@ Enrolling the SSH key on development (user Dev machine where he shall start his 
     •	You are now ready to clone any repo from GIT onto this machine without passing user name and password   
       every time, be sure to use SSH links for cloning or any activity you wish to do.   
 # 3	Working with GIT
+![Annotation 2020-04-30 173557](https://user-images.githubusercontent.com/64484410/80708392-35b14d00-8b09-11ea-9d20-ab36dddcf960.png)  
+
 # 4	Adding passphrase
 Before using Git add your key to ssh-agent, this shall enable seamless cloning and other activities with GIT   
 Start ssh-agent if not started:   
