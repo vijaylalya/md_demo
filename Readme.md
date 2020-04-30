@@ -54,6 +54,7 @@ Enrolling the SSH key on development (user Dev machine where he shall start his 
 ![Annotation 2020-04-30 170142](https://user-images.githubusercontent.com/64484410/80705676-72c71080-8b04-11ea-86a6-1c74f202e3fa.png)  
     •	It would prompt to enter the location to save the key file. By default it is ~/.ssh. It’s optional to change this path.  
     •	Once done, a passphrase is prompted for. Enter it as “platform”, as this has to be remembered while accessing git.  
+![Annotation 2020-04-30 170540](https://user-images.githubusercontent.com/64484410/80705947-0bf62700-8b05-11ea-9303-dd2a80157771.png)  
     •	With the entered passphrase, a key is generated. The output is as in the screenshot.  
     •	In the ~/.ssh folder the id-rsa.pub file is generated. Copy the contents of this file.  
    **2.3	Integrating generated key to GIT**  
