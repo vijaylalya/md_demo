@@ -56,6 +56,7 @@ Enrolling the SSH key on development (user Dev machine where he shall start his 
     •	Once done, a passphrase is prompted for. Enter it as “platform”, as this has to be remembered while accessing git.  
 ![Annotation 2020-04-30 170540](https://user-images.githubusercontent.com/64484410/80705947-0bf62700-8b05-11ea-9303-dd2a80157771.png)  
     •	With the entered passphrase, a key is generated. The output is as in the screenshot.  
+![Annotation 2020-04-30 170958](https://user-images.githubusercontent.com/64484410/80706207-8d4db980-8b05-11ea-9d78-7c4312657d91.png)  
     •	In the ~/.ssh folder the id-rsa.pub file is generated. Copy the contents of this file.  
    **2.3	Integrating generated key to GIT**  
     •	Open the [https://utcbis.visualstudio.com/](https://utcbis.visualstudio.com/).   
