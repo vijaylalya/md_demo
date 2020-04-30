@@ -27,6 +27,7 @@ Project team approval:
  • Azure-DevOps: [www.utcbis.visualstudio.com](www.utcbis.visualstudio.com)        
  • Login with your carrier email id and windows login password (SAML credentials)    
 ![Annotation 2020-04-30 161720](https://user-images.githubusercontent.com/64484410/80702141-37c1de80-8afe-11ea-9f9a-e96d97b0090d.png)  
+![Aotation 2020-04-30 163154](https://user-images.githubusercontent.com/64484410/80703397-545f1600-8b00-11ea-8fbd-558d2946be86.png)  
 	     [1.2	Checking Repos]()  
  [2	Setting up your development machine]()  
     [2.1	SSH Key generation for GIT access]()      
