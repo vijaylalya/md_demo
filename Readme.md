@@ -23,8 +23,9 @@ Project team approval:
 <Last, F.>, <date>  
  [**Table of Contents**]()  
    [1	Checking for GIT]()  
-    [1.1	Check your connection to Azure-DevOps]()     
-    [1.2	Checking Repos]()  
+    [1.1	Check your connection to Azure-DevOps]()  
+![Annotation 2020-04-30 161720](https://user-images.githubusercontent.com/64484410/80702141-37c1de80-8afe-11ea-9f9a-e96d97b0090d.png)  
+	     [1.2	Checking Repos]()  
  [2	Setting up your development machine]()  
     [2.1	SSH Key generation for GIT access]()      
     [2.2	Steps to generate ssh key]()  
@@ -35,7 +36,7 @@ Project team approval:
  [6	What Next]()  
  [7	Useful references]()  	
   # 1	Checking for GIT
-  ## 1.1	Check your connection to Azure-DevOps
+  ## 1.1	Check your connection to Azure-DevOps  
    *Azure-DevOps: [www.utcbis.visualstudio.com](www.utcbis.visualstudio.com)  
    *Login with your carrier email id and windows login password (SAML credentials)  
    **1.2	Checking Repos**  
