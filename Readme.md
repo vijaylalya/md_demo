@@ -65,6 +65,7 @@ Enrolling the SSH key on development (user Dev machine where he shall start his 
     •	After you click on “clone” you should see something like below  
 ![Annotation 2020-04-30 171830](https://user-images.githubusercontent.com/64484410/80706927-c63a5e00-8b06-11ea-8d82-863bad644c5e.png)  
     •	Click on adding New Key  
+![Annotation 2020-04-30 172130](https://user-images.githubusercontent.com/64484410/80707205-3812a780-8b07-11ea-845f-7a6b40e36403.png)  
     •	Click on adding New Key, name it with your name and the copy the content of id-rsa.pub here (refer section 2.2 line item g)  
     •	You are now ready to clone any repo from GIT onto this machine without passing user name and password   
       every time, be sure to use SSH links for cloning or any activity you wish to do.   
