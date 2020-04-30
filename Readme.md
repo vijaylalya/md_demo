@@ -23,7 +23,9 @@ Project team approval:
 <Last, F.>, <date>  
  [**Table of Contents**]()  
    [1	Checking for GIT]()  
-    [1.1	Check your connection to Azure-DevOps]()  
+    [1.1	Check your connection to Azure-DevOps]()   
+ • Azure-DevOps: [www.utcbis.visualstudio.com](www.utcbis.visualstudio.com)        
+ • Login with your carrier email id and windows login password (SAML credentials)    
 ![Annotation 2020-04-30 161720](https://user-images.githubusercontent.com/64484410/80702141-37c1de80-8afe-11ea-9f9a-e96d97b0090d.png)  
 	     [1.2	Checking Repos]()  
  [2	Setting up your development machine]()  
