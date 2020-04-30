@@ -21,9 +21,8 @@ Document change history:
 |2|21-APRIL-2020|Added pass phrase and repo list plus what could be done next|MAHESH GAIKWAD|
 |3|             |                                                            |              |
 |4|             |                                                            |              |
-|5|             |                                                            |              |  
-                    			
-                    >Document Approvals  
+|5|             |                                                            |              |   
+                    			**Document Approvals** 
 
 Passport Review Board approved: <Yes, No> (manual entry (default No) or based upon object state)  
 Project team approval:  
