@@ -1,12 +1,3 @@
-<p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
-</p>
-
 Engineering Design Center HRDC  
 ![download](https://user-images.githubusercontent.com/64484410/80700386-44910300-8afb-11ea-814f-7086cd3d3822.png)
  # **Platforms-How-To-GIT**
