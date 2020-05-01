@@ -1,6 +1,3 @@
-<p align="center">
-  Some Links:  
-	
 <p align="center">  
 	<b>Engineering Design Center HRDC</b><br>     
 	
